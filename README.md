@@ -1,11 +1,13 @@
 # AI-Powered News Classification System
 
 ## Project Overview
+
 An AI-powered web application that automatically classifies news articles into 42 different categories using Machine Learning and Natural Language Processing (NLP).
 
 Users can enter news text through a simple web interface and receive a predicted news category.
 
 ## Technologies Used
+
 - Python
 - Flask
 - Scikit-learn
@@ -16,6 +18,7 @@ Users can enter news text through a simple web interface and receive a predicted
 - Matplotlib, Seaborn
 
 ## Machine Learning Workflow
+
 1. Dataset inspection and preprocessing
 2. Handling class imbalance using class weights and oversampling
 3. Text feature extraction using TF-IDF
@@ -24,11 +27,13 @@ Users can enter news text through a simple web interface and receive a predicted
 6. Confusion matrix and performance visualization
 
 ## Model Performance
+
 - Accuracy: 89.50%
 - Macro F1-score: 89.25%
 - Number of categories: 42
 
 ## Project Structure
+
 ```text
 News Classification/
 ├── app.py
@@ -74,4 +79,5 @@ http://127.0.0.1:5000
 ```
 
 ## Note
+
 The original dataset is not included in this repository because of its large file size. The trained model and TF-IDF vectorizer are included.
