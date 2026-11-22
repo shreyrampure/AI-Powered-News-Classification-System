@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-An AI-powered web application that automatically classifies news articles into 42 different categories using Machine Learning and Natural Language Processing (NLP).
+An AI-powered web application that automatically classifies news articles into 7 different categories using Machine Learning and Natural Language Processing (NLP).
 
 Users can enter news text through a simple web interface and receive a predicted news category.
 
@@ -30,7 +30,7 @@ Users can enter news text through a simple web interface and receive a predicted
 
 - Accuracy: 89.50%
 - Macro F1-score: 89.25%
-- Number of categories: 42
+- Number of categories: 7
 
 ## Project Structure
 
